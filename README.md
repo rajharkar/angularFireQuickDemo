@@ -1,5 +1,5 @@
 # angularFireQuickDemo
-From David East's Tutorial. You can see a live version of the application here: https://angularfiredemo-575a1.firebaseapp.com/
+From David East's (youtube tutorial)[https://www.youtube.com/watch?v=LdDwbIEpT4s]. You can see a live version of the application here: https://angularfiredemo-575a1.firebaseapp.com/
 
 
 ## Database setup
