@@ -13,4 +13,4 @@ your-firebase-application
     |
     +-name: "David"
 ```
-When David does the demo, he is already inside of his `angular` node, which could be confusing if you aren't paying close attention.
+When David does the demo, he is already inside of his `angular` node, which could be confusing if you aren't paying close attention. Make sure to put your object inside of that `angular` node.
