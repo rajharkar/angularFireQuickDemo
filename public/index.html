@@ -67,10 +67,13 @@
 
     <!-- My Angular Application -->
     <script src="app.js"></script>
+
+    <!--Controller -->
+    <script src="controller.js"></script>
   </head>
   <body ng-app="app">
-    <div id="message" ng-controller="MyCtrl as ctrl">
-      <pre>
+    <div id="message" ng-controller="TodoCtrl as ctrl">
+    <pre id="object">
 {{ ctrl.object | json }}
       </pre>
 
